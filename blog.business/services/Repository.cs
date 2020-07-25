@@ -54,5 +54,10 @@ namespace blog.business.services
         {
             return _entities.AsEnumerable();
         }
+
+        public int Save()
+        {
+            return _context.SaveChanges();
+        }
     }
 }

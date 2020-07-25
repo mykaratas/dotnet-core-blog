@@ -1,19 +1,22 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workbench ActiveDocument="blog.data/models/Category.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="blog.business/services/Repository.cs">
     <Files>
-      <File FileName="blog.business/services/Repository.cs" Line="13" Column="47" />
-      <File FileName="blog.business/repositories/IRepository.cs" Line="5" Column="11" />
-      <File FileName="blog.data/models/Category.cs" Line="6" Column="1" />
+      <File FileName="blog.business/services/Repository.cs" Line="42" Column="57" />
+      <File FileName="blog.business/repositories/IRepository.cs" Line="16" Column="2" />
+      <File FileName="blog.data/models/Category.cs" Line="9" Column="22" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="blog" expanded="True">
-            <Node name="blog.business" expanded="True" />
-            <Node name="blog.data" expanded="True">
-              <Node name="models" expanded="True">
-                <Node name="Category.cs" selected="True" />
+            <Node name="blog.business" expanded="True">
+              <Node name="repositories" expanded="True" />
+              <Node name="services" expanded="True">
+                <Node name="Repository.cs" selected="True" />
               </Node>
+            </Node>
+            <Node name="blog.data" expanded="True">
+              <Node name="models" expanded="True" />
             </Node>
           </Node>
         </State>
