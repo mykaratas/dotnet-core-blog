@@ -23,8 +23,15 @@ namespace blog.business.services
         public void Add(T entity)
         {
             if(entity == null) throw new ArgumentNullException("entity");
-
+            try
+            {
             _context.SaveChanges();
+            }
+            catch
+            {
+                RollBack();
+            }
+
         }
 
         public  void Update(T entity)
@@ -58,6 +65,10 @@ namespace blog.business.services
         public int Save()
         {
             return _context.SaveChanges();
+        }
+        public void RollBack()
+        {
+         _context.Dispose();   
         }
     }
 }
