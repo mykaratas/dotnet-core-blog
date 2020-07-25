@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "blog.business", "blog.busin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "blog.ui", "blog.ui\blog.ui.csproj", "{43CDA201-A80E-426A-BEE3-8581F12D4E33}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "blog.root", "blog.root\blog.root.csproj", "{B9DE76AE-9D5A-4DF7-9B44-B905E16C7C8E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -58,5 +60,17 @@ Global
 		{43CDA201-A80E-426A-BEE3-8581F12D4E33}.Release|x64.Build.0 = Release|Any CPU
 		{43CDA201-A80E-426A-BEE3-8581F12D4E33}.Release|x86.ActiveCfg = Release|Any CPU
 		{43CDA201-A80E-426A-BEE3-8581F12D4E33}.Release|x86.Build.0 = Release|Any CPU
+		{B9DE76AE-9D5A-4DF7-9B44-B905E16C7C8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9DE76AE-9D5A-4DF7-9B44-B905E16C7C8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9DE76AE-9D5A-4DF7-9B44-B905E16C7C8E}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{B9DE76AE-9D5A-4DF7-9B44-B905E16C7C8E}.Debug|x64.Build.0 = Debug|Any CPU
+		{B9DE76AE-9D5A-4DF7-9B44-B905E16C7C8E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B9DE76AE-9D5A-4DF7-9B44-B905E16C7C8E}.Debug|x86.Build.0 = Debug|Any CPU
+		{B9DE76AE-9D5A-4DF7-9B44-B905E16C7C8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9DE76AE-9D5A-4DF7-9B44-B905E16C7C8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9DE76AE-9D5A-4DF7-9B44-B905E16C7C8E}.Release|x64.ActiveCfg = Release|Any CPU
+		{B9DE76AE-9D5A-4DF7-9B44-B905E16C7C8E}.Release|x64.Build.0 = Release|Any CPU
+		{B9DE76AE-9D5A-4DF7-9B44-B905E16C7C8E}.Release|x86.ActiveCfg = Release|Any CPU
+		{B9DE76AE-9D5A-4DF7-9B44-B905E16C7C8E}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
