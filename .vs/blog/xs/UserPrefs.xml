@@ -1,11 +1,19 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="blog.data/models/Category.cs">
+    <Files>
+      <File FileName="blog.business/services/Repository.cs" Line="13" Column="47" />
+      <File FileName="blog.business/repositories/IRepository.cs" Line="5" Column="11" />
+      <File FileName="blog.data/models/Category.cs" Line="6" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="blog" expanded="True">
+            <Node name="blog.business" expanded="True" />
             <Node name="blog.data" expanded="True">
-              <Node name="Dependencies" expanded="True" selected="True" />
+              <Node name="models" expanded="True">
+                <Node name="Category.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>
@@ -13,7 +21,7 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x64" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bSzwmj7t5O9/r70zL4MekZ9a0NZSHWqJNqPzUjAyJ9sIpdKAYzsI+hlIyUUVTw0F+vIPjFWc2D7M55JQPXmA0g==",
+  "dgSpecHash": "t6WMvSQXfLxs400bT1di0qqSrChAmZEwCXgSdgKO/YVL4iOyHkgTPdDlIIcyG5CQlFzU/AWdQzGTcn7//cr4mg==",
   "success": true,
-  "projectFilePath": "/Users/user/Projects/dotnet-core-blog/blog.data/blog.data.csproj",
+  "projectFilePath": "/Users/user/Projects/dotnet-core-blog/blog.business/blog.business.csproj",
   "expectedPackageFiles": [
     "/Users/user/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.0/microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "/Users/user/.nuget/packages/microsoft.bcl.hashcode/1.1.0/microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

@@ -1,0 +1,9 @@
+/Users/user/Projects/dotnet-core-blog/blog.data/bin/Debug/netcoreapp3.1/blog.data.deps.json
+/Users/user/Projects/dotnet-core-blog/blog.data/bin/Debug/netcoreapp3.1/blog.data.dll
+/Users/user/Projects/dotnet-core-blog/blog.data/bin/Debug/netcoreapp3.1/blog.data.pdb
+/Users/user/Projects/dotnet-core-blog/blog.data/obj/Debug/netcoreapp3.1/blog.data.csprojAssemblyReference.cache
+/Users/user/Projects/dotnet-core-blog/blog.data/obj/Debug/netcoreapp3.1/blog.data.AssemblyInfoInputs.cache
+/Users/user/Projects/dotnet-core-blog/blog.data/obj/Debug/netcoreapp3.1/blog.data.AssemblyInfo.cs
+/Users/user/Projects/dotnet-core-blog/blog.data/obj/Debug/netcoreapp3.1/blog.data.dll
+/Users/user/Projects/dotnet-core-blog/blog.data/obj/Debug/netcoreapp3.1/blog.data.pdb
+/Users/user/Projects/dotnet-core-blog/blog.data/obj/Debug/netcoreapp3.1/blog.data.csproj.CoreCompileInputs.cache

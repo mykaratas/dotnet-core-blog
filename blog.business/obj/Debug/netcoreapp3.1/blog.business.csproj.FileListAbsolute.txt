@@ -1,0 +1,12 @@
+/Users/user/Projects/dotnet-core-blog/blog.business/bin/Debug/netcoreapp3.1/blog.business.deps.json
+/Users/user/Projects/dotnet-core-blog/blog.business/bin/Debug/netcoreapp3.1/blog.business.dll
+/Users/user/Projects/dotnet-core-blog/blog.business/bin/Debug/netcoreapp3.1/blog.business.pdb
+/Users/user/Projects/dotnet-core-blog/blog.business/bin/Debug/netcoreapp3.1/blog.data.dll
+/Users/user/Projects/dotnet-core-blog/blog.business/bin/Debug/netcoreapp3.1/blog.data.pdb
+/Users/user/Projects/dotnet-core-blog/blog.business/obj/Debug/netcoreapp3.1/blog.business.csprojAssemblyReference.cache
+/Users/user/Projects/dotnet-core-blog/blog.business/obj/Debug/netcoreapp3.1/blog.business.AssemblyInfoInputs.cache
+/Users/user/Projects/dotnet-core-blog/blog.business/obj/Debug/netcoreapp3.1/blog.business.AssemblyInfo.cs
+/Users/user/Projects/dotnet-core-blog/blog.business/obj/Debug/netcoreapp3.1/blog.business.csproj.CoreCompileInputs.cache
+/Users/user/Projects/dotnet-core-blog/blog.business/obj/Debug/netcoreapp3.1/blog.business.csproj.CopyComplete
+/Users/user/Projects/dotnet-core-blog/blog.business/obj/Debug/netcoreapp3.1/blog.business.dll
+/Users/user/Projects/dotnet-core-blog/blog.business/obj/Debug/netcoreapp3.1/blog.business.pdb
